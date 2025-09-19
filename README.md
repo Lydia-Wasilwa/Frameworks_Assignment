@@ -8,8 +8,7 @@ Frameworks-Assignment/
 │── app.py              # Streamlit app for interactive exploration
 │── data_analysis.ipynb # Jupyter notebook with analysis & visualizations
 │── README.md           # Project overview (this file)
-│── report.md           # Detailed report (findings + reflection)
-│── requirements.txt    # Python dependencies
+│── Report.md           # Detailed report (findings + reflection)
 │── .gitignore          # Ignore large files (like metadata.csv)
 ```
 
